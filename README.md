@@ -39,9 +39,5 @@
 #  ♾️ About the Data #
 
 * Original Dataset source: https://www.kaggle.com/datasets/aditisaxena20/superstore-sales-dataset
-* Superstore definition: https://www.merriam-webster.com/dictionary/superstore#:~:text=%3A%20a%20very%20large%20store%20often,variety%20of%20merchandise%20for%20sale
-* Superstores/Bigbox stores by country: https://en.wikipedia.org/wiki/List_of_superstores
-
-
 
 
