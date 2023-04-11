@@ -5,7 +5,7 @@
 ---
 # ♾️ Overview #
 
-* In this file you I used python to do a simple EDA to understand and explore the Superstore dataset acquired from Kaggle. Will show a step by step code on how I did my EDA and showed some possible ways to go about it. As well as showing a simple visualization for each focus.
+* In this section I used python to do a simple EDA to understand and explore the Superstore dataset acquired from Kaggle. I will show a step by step code on how I did my EDA and showed some possible ways to go about it. As well as showing a simple visualization for each focus. (Part 1 and Part 2in ipynb in this repository)
 ---
 
 # ♾️ Tools used #
