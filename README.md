@@ -21,6 +21,17 @@
 1. Data Loading 
 2. Data Cleanse / Conversion of data type
 3. Identify EDA focus
+4. Using Yellow brick 
+  - Note: 
+ High cardinality in a dataset can have both advantages and disadvantages, and whether it is "bad" depends on the specific context and goals of the analysis.
+
+High cardinality refers to a situation where a categorical variable (such as a column in a dataset) has a large number of unique values. For example, if a column represents the names of people, and there are many different names in the column, then that column has high cardinality.
+
+One advantage of high cardinality is that it can provide more granularity and detail in the data. This can be helpful in certain types of analyses, such as customer segmentation, where more fine-grained distinctions between groups of customers can lead to more targeted marketing strategies.
+
+On the other hand, high cardinality can also make it more difficult to analyze the data, because there may be too many unique categories to work with effectively. For example, if a dataset has a column representing the names of products, and there are thousands of different products, it may be difficult to identify patterns or make meaningful comparisons between different products.
+
+In summary, whether high cardinality is "bad" depends on the specific goals and context of the analysis. High cardinality can provide more detail and granularity, but it can also make it more difficult to work with the data.
 
 ---
 
